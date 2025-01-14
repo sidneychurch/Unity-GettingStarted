@@ -14,27 +14,27 @@ For Mac, I recommend downloading the .zip file, and for Windows, download the Us
 
 ## Install
 ***
-![img_1.png](img_1.png)
+<img height="70%" src="img_1.png" width="70%"/>
 
-Launch the installer to install VSCode on your machine. You can keep all of the default options selected for install.
+* Launch the installer to install VSCode on your machine. You can keep all of the default options selected for install.
 
 When you launch VSCode, it should look something like this:
 
-![img_2.png](img_2.png)
+<img height="50%" src="img_2.png" width="50%"/>
 
 # Install the Unity for Visual Studio Code Extension
 ***
 So to make some of the magic happen we need to install an extension. 
 
-You can open the extension marketplace by clicking on this button in the left-hand panel:
+* You can open the extension marketplace by clicking on this button in the left-hand panel:
 
-![img_3.png](img_3.png)
+<img height="10%" src="img_3.png" width="10%"/>
 
-If you search for "unity" you should see the extension needed at the top
+* If you search for "unity" you should see the extension needed at the top
 
-![img_4.png](img_4.png)
+<img height="50%" src="img_4.png" width="50%"/>
 
-Click on the small blue install button.
+* Click on the small blue install button.
 
 After the extension completes install and the Unity engine has finished installing, head to the next section.
 
