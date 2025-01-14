@@ -24,8 +24,7 @@ This will download the Unity Hub, which is an application where you can download
 
 ## Creating an Account
 ***
-![img_3.png](img_3.png)
-
+<img height="70%" src="img_3.png" width="70%"/>
 After clicking "Create Account", your web browser should open.
 
 1. Fill out the form. 
@@ -40,7 +39,7 @@ After clicking "Create Account", your web browser should open.
 
 3. Once you have an ID, you can head back to the Hub and click on "sign in".
    - This will again open your browser and you may see a redirect link pop up like this:
-   ![img_4.png](img_4.png)
+   <img height="50%" src="img_4.png" width="50%"/>
    - Click on "Open Link"
 
 This should take you back to the Hub, where the interface should load to look like this:
@@ -52,7 +51,7 @@ This should take you back to the Hub, where the interface should load to look li
 If you created your Unity account using your school email and would like to change your license from personal to student, go here: https://unity.com/products/unity-student
 
 
-<img height="70%" src="img_11.png" width="70%"/>
+<img height="40%" src="img_11.png" width="40%"/>
 
 Then click on the "Get Started" button under Post-secondary students. If you're signed in, this will open a page where you can follow the steps to have your account changed to student.
 
@@ -71,7 +70,7 @@ You'll see a list of versions to install. For this course, we're going to be usi
 > On macOS, you’ll need to select whether you’re using a Silicon or Intel processor. If you’re not sure what type of Mac processor you have, [read this support article from Apple](https://support.apple.com/en-us/116943).
 
 ### Select Modules
-![img_8.png](img_8.png)
+<img height="50%" src="img_8.png" width="50%"/>
 
 Next you have a list of modules that you can choose to install. You don't need all of them. We just want to make sure that we can publish games for Mac and Windows.
 
