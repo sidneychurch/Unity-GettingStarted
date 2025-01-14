@@ -2,11 +2,6 @@
 
 ## Download Unity Hub
 ***
-
-> [!IMPORTANT]
-> On macOS, you’ll need to select whether you’re using a Silicon or Intel processor. If you’re not sure what type of Mac processor you have, [read this support article from Apple](https://support.apple.com/en-us/116943).
-
-
 1. Go to https://unity.com/download
 
 2. On this page you'll see links under their first step. 
@@ -96,3 +91,7 @@ You should now see the progress of your install.
 ![img_10.png](img_10.png)
 
 As Unity is installing, you can go ahead and start installing VSCode.
+
+
+---
+>Next: [Installing Visual Studio Code](/02_IDE/IDE.md)
