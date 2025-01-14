@@ -7,7 +7,7 @@
 2. On this page you'll see links under their first step. 
    - You want to download the correct one depending on your operating system.
 
-![img_1.png](img_1.png)
+<img height="40%" src="img_1.png" width="40%"/>
 
 This will download the Unity Hub, which is an application where you can download various version of the engine and where you will create and launch your projects.
 
@@ -51,7 +51,8 @@ This should take you back to the Hub, where the interface should load to look li
 ***
 If you created your Unity account using your school email and would like to change your license from personal to student, go here: https://unity.com/products/unity-student
 
-![img_11.png](img_11.png)
+
+<img height="70%" src="img_11.png" width="70%"/>
 
 Then click on the "Get Started" button under Post-secondary students. If you're signed in, this will open a page where you can follow the steps to have your account changed to student.
 
