@@ -3,7 +3,7 @@
 In a moment, I'm going to be lazy and pass you off to one of Unity's written tutorials. Before that, you need to know where your Unity projects are going to be saved on your computer.
 Honestly, they can be saved anywhere, but it's better to have a central location for all of your projects. 
 
-![img.png](img.png)
+<img height="50%" src="img.png" width="50%"/>
 
 To find out where your projects are being saved:
 * Open Unity Hub
